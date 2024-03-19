@@ -28,7 +28,7 @@ If you want to suggest an enhancement to DSA Dojo, please [submit an issue](../I
 
 If you want to contribute to DSA Dojo, submit a pull request.
 
-- url: `https://github.com/OPCODE-Open-Spring-Fest/DSA_Dojo/compare/branch...YOURGITHUBUSERNAME:DSA_Dojo:BRANCH?quick_pull=1&template=pr.md`
+- url: `https://github.com/OPCODE-Open-Spring-Fest/DSA_Dojo/compare/branch...Roshu2003:DSA_Dojo:BRANCH?quick_pull=1&template=pr.md`
   
 ### Requirements
 
